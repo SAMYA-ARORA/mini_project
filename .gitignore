@@ -19,8 +19,6 @@ models/
 *.keras
 *.h5
 
-# Generated outputs
-reports/figures/
 
 # Raw NASA dataset (keep local; do not upload to GitHub)
 data/raw/
