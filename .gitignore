@@ -1,0 +1,34 @@
+
+# Python virtual environments
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter generated files
+.ipynb_checkpoints/
+
+# Local environment files
+.env
+
+# Generated model files
+models/
+*.pkl
+*.pt
+*.pth
+*.keras
+*.h5
+
+# Generated outputs
+reports/figures/
+
+# Raw NASA dataset (keep local; do not upload to GitHub)
+data/raw/
+
+# Processed data (reproducible files can be generated again)
+data/processed/
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
